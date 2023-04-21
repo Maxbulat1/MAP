@@ -1,0 +1,10 @@
+C:\Users\Maxbulat1\source\repos\MAP\MAP\bin\Debug\MAP.exe.config
+C:\Users\Maxbulat1\source\repos\MAP\MAP\bin\Debug\MAP.exe
+C:\Users\Maxbulat1\source\repos\MAP\MAP\bin\Debug\MAP.pdb
+C:\Users\Maxbulat1\source\repos\MAP\MAP\obj\Debug\MAP.csproj.AssemblyReference.cache
+C:\Users\Maxbulat1\source\repos\MAP\MAP\obj\Debug\MAP.Form1.resources
+C:\Users\Maxbulat1\source\repos\MAP\MAP\obj\Debug\MAP.Properties.Resources.resources
+C:\Users\Maxbulat1\source\repos\MAP\MAP\obj\Debug\MAP.csproj.GenerateResource.cache
+C:\Users\Maxbulat1\source\repos\MAP\MAP\obj\Debug\MAP.csproj.CoreCompileInputs.cache
+C:\Users\Maxbulat1\source\repos\MAP\MAP\obj\Debug\MAP.exe
+C:\Users\Maxbulat1\source\repos\MAP\MAP\obj\Debug\MAP.pdb
